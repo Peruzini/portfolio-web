@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Preview visual — NKP Obra Fácil</title>
+  <desc id="desc">Representação visual do website institucional da NKP Obra Fácil.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071a2b"/>
+      <stop offset="0.55" stop-color="#123b58"/>
+      <stop offset="1" stop-color="#07131f"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6d7881"/>
+      <stop offset="1" stop-color="#303941"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect y="445" width="1280" height="275" fill="url(#floor)" opacity="0.75"/>
+
+  <g opacity="0.22" stroke="#8fb7cf" stroke-width="8" fill="none">
+    <path d="M610 140 V520 M720 140 V520 M830 140 V520 M940 140 V520 M1050 140 V520 M1160 140 V520"/>
+    <path d="M560 180 H1220 M560 275 H1220 M560 370 H1220"/>
+    <path d="M570 520 L650 380 L730 520 L810 380 L890 520 L970 380 L1050 520 L1130 380 L1210 520"/>
+  </g>
+
+  <rect width="1280" height="92" fill="#061829"/>
+  <g transform="translate(52 20)">
+    <path d="M10 27 H40 L52 15 L66 29 L54 41 H24 Z" fill="none" stroke="#1aa7e8" stroke-width="5" stroke-linejoin="round"/>
+    <text x="82" y="30" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#fff">NKP</text>
+    <text x="82" y="50" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#1aa7e8">OBRA FÁCIL</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#e9f2f7">
+    <text x="650" y="55">Sobre</text><text x="725" y="55">Atuação</text><text x="815" y="55">Diferenciais</text><text x="930" y="55">Método</text><text x="1010" y="55">Clientes</text><text x="1090" y="55">Contato</text>
+  </g>
+  <rect x="1160" y="22" width="92" height="48" rx="24" fill="#1aa7e8"/>
+  <text x="1174" y="52" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#fff">Orçamento</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="188" font-size="17" font-weight="700" fill="#26b2ef">CONSTRUÇÃO • INFRAESTRUTURA • SERVIÇOS OPERACIONAIS</text>
+    <text x="70" y="268" font-size="54" font-weight="700" fill="#fff">Construção eficiente.</text>
+    <text x="70" y="334" font-size="54" font-weight="700" fill="#25afea">Operação que não para.</text>
+    <text x="70" y="395" font-size="22" fill="#edf5f9">Soluções integradas em obras civis, montagens industriais, infraestrutura</text>
+    <text x="70" y="428" font-size="22" fill="#edf5f9">e serviços operacionais, com agilidade, segurança e rigor técnico.</text>
+
+    <rect x="70" y="491" width="230" height="58" rx="29" fill="#1aa7e8" filter="url(#shadow)"/>
+    <text x="96" y="527" font-size="17" font-weight="700" fill="#fff">Solicitar orçamento</text>
+    <rect x="320" y="491" width="244" height="58" rx="29" fill="#071a2b" fill-opacity="0.72" stroke="#fff" stroke-width="2"/>
+    <text x="346" y="527" font-size="17" font-weight="700" fill="#fff">Conheça as soluções</text>
+
+    <g filter="url(#shadow)">
+      <rect x="820" y="176" width="390" height="404" rx="24" fill="#061829" fill-opacity="0.93" stroke="#1aa7e8" stroke-width="2"/>
+      <text x="855" y="225" font-size="16" font-weight="700" fill="#26b2ef">NKP OBRA FÁCIL</text>
+      <text x="855" y="280" font-size="31" font-weight="700" fill="#fff">Um único parceiro para</text>
+      <text x="855" y="321" font-size="31" font-weight="700" fill="#fff">diferentes frentes.</text>
+      <text x="855" y="369" font-size="18" fill="#dce8ef">Capacidade operacional para projetos de</text>
+      <text x="855" y="397" font-size="18" fill="#dce8ef">pequeno, médio e grande porte, do</text>
+      <text x="855" y="425" font-size="18" fill="#dce8ef">fornecimento de insumos à execução.</text>
+      <line x1="855" y1="467" x2="1170" y2="467" stroke="#1aa7e8" stroke-width="2"/>
+      <text x="855" y="506" font-size="17" font-weight="700" fill="#fff">✓ Soluções de ponta a ponta</text>
+      <text x="855" y="536" font-size="17" font-weight="700" fill="#fff">✓ Qualidade e transparência</text>
+      <text x="855" y="566" font-size="17" font-weight="700" fill="#fff">✓ Agilidade e conformidade</text>
+    </g>
+
+    <rect x="70" y="612" width="286" height="42" rx="21" fill="#fff"/>
+    <text x="90" y="639" font-size="15" font-weight="700" fill="#0a496e">CASE • WEBSITE INSTITUCIONAL</text>
+  </g>
+</svg>

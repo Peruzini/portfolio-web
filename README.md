@@ -1,49 +1,33 @@
 # Portfólio Web — Rafael Peruzini
 
-Portfólio de projetos web desenvolvidos em **PHP, HTML, CSS e JavaScript**, incluindo sites institucionais, landing pages e soluções digitais publicadas em ambiente de hospedagem.
+Repositório de projetos web desenvolvidos para necessidades reais de negócio. Os cases mostram desenvolvimento de sites institucionais, interfaces responsivas, formulários, integração com canais de atendimento e publicação em hospedagem web.
 
 ## Projetos
 
-### Cassuli Consultoria
-Website institucional desenvolvido para uma consultoria especializada em mineração, meio ambiente e geotecnologia.
+### [Cassuli Consultoria](./cassuli-consultoria/)
+Website institucional para consultoria especializada em mineração, meio ambiente e geotecnologia.
 
-**Tecnologias:** PHP, HTML5, CSS3, JavaScript e Apache/Hostinger.
+**Stack:** PHP · HTML5 · CSS3 · JavaScript · Apache · Hostinger
 
-**Escopo:** apresentação institucional, serviços, navegação responsiva, contato e estrutura preparada para publicação em hospedagem PHP.
+### [NKP Obra Fácil](./nkp-obra-facil/)
+Website institucional para empresa de engenharia, construção, estruturas metálicas, facilities e suporte operacional.
 
-📁 [`cassuli-consultoria/`](./cassuli-consultoria/)
+**Stack:** HTML5 · CSS3 · JavaScript · Node.js · Hostinger
 
----
+## Competências demonstradas
 
-### NKP Obra Fácil
-Website institucional voltado a serviços de engenharia, manutenção predial, estruturas metálicas, facilities e suporte operacional.
+- desenvolvimento de sites e landing pages;
+- PHP e JavaScript;
+- HTML semântico e CSS responsivo;
+- formulários e integração com WhatsApp;
+- organização de código e documentação;
+- publicação em hospedagem compartilhada;
+- preocupação com segurança e privacidade ao versionar projetos de clientes.
 
-**Tecnologias:** PHP, HTML5, CSS3 e JavaScript.
+## Versões públicas dos cases
 
-📁 [`nkp-obra-facil/`](./nkp-obra-facil/)
-
----
-
-## Tecnologias utilizadas
-
-- PHP
-- HTML5
-- CSS3
-- JavaScript
-- Design responsivo
-- Apache / `.htaccess`
-- Hospedagem Hostinger
-- Git e GitHub
-
-## Organização
-
-Cada projeto possui sua própria pasta e documentação. Arquivos com credenciais, senhas, chaves e configurações privadas não são versionados.
-
-## Sobre
-
-Este repositório reúne projetos de desenvolvimento web utilizados como parte do meu portfólio profissional, complementando minha atuação em dados, BI, automação e soluções digitais.
+Para preservar dados operacionais e ativos de terceiros, os projetos publicados aqui usam **dados de contato de demonstração e placeholders SVG** no lugar de telefones, endereços, documentos e mídias originais. A estrutura, lógica e implementação permanecem disponíveis para avaliação técnica.
 
 ---
 
-**Rafael Peruzini**  
-GitHub: [@Peruzini](https://github.com/Peruzini)
+**Rafael Peruzini** — [GitHub @Peruzini](https://github.com/Peruzini)

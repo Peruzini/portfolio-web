@@ -1,1 +1,0 @@
-Preparação técnica em andamento.

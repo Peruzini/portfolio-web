@@ -1,23 +1,30 @@
 # NKP Obra Fácil
 
-Website institucional desenvolvido para uma empresa de **engenharia, manutenção predial, estruturas metálicas, facilities e suporte operacional**.
+Case de website institucional responsivo para empresa de engenharia, construção civil, estruturas metálicas, facilities e suporte operacional.
 
-## Objetivo
+## O que o projeto demonstra
 
-Apresentar serviços, diferenciais e canais de contato da empresa em uma estrutura web profissional e responsiva.
+- landing page institucional completa;
+- HTML semântico e layout responsivo;
+- navegação mobile;
+- animações e comportamento de interface em JavaScript;
+- formulário que monta uma mensagem para atendimento via WhatsApp;
+- servidor Node.js simples para desenvolvimento local.
 
 ## Tecnologias
 
-- PHP
-- HTML5
-- CSS3
-- JavaScript
-- Hospedagem web
+`HTML5` · `CSS3` · `JavaScript` · `Node.js` · `Hostinger`
 
-## Segurança
+## Privacidade do case
 
-Arquivos com credenciais, senhas, chaves, configurações privadas e dados de produção não devem ser publicados no GitHub.
+Telefone, CNPJ e mídias comerciais da versão de produção foram substituídos por dados de demonstração e placeholders SVG. A lógica do projeto permanece disponível para avaliação técnica.
 
-## Status
+## Execução local
 
-Estrutura do projeto criada. O código-fonte original será adicionado após revisão de segurança.
+```bash
+npm start
+```
+
+Depois abra `http://localhost:3000`.
+
+O site também pode ser hospedado como conteúdo estático usando `index.html`, `styles.css`, `script.js` e `assets/`.

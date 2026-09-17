@@ -1,27 +1,31 @@
-# Environment and secrets
+# Environment / secrets
 .env
 .env.*
-config.php
-config/*.php
-!config/*.example.php
-
-# Credentials / local settings
-*.key
-*.pem
-*.crt
+!.env.example
+*.local.php
+config.local.php
+config/secrets.php
 secrets/
 credentials/
+*.key
+*.pem
+*.p12
+*.pfx
 
-# Backups and exports
+# Dependencies
+node_modules/
+vendor/
+
+# Backups / exports
 *.zip
 *.tar
 *.tar.gz
-*.sql
 *.bak
+*.sql
 backup/
 backups/
 
-# Logs and temporary files
+# Logs / temp
 *.log
 logs/
 tmp/
@@ -32,7 +36,3 @@ temp/
 Thumbs.db
 .vscode/
 .idea/
-
-# Dependencies
-vendor/
-node_modules/

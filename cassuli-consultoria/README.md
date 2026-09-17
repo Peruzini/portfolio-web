@@ -1,34 +1,31 @@
 # Cassuli Consultoria
 
-Website institucional desenvolvido em PHP para uma consultoria especializada em **mineração, meio ambiente e geotecnologia**.
+Case de website institucional desenvolvido em **PHP, HTML, CSS e JavaScript** para uma consultoria do setor de mineração, meio ambiente e geotecnologia.
 
-## Objetivo
+## O que o projeto demonstra
 
-Apresentar os serviços da empresa de forma profissional, responsiva e adequada para publicação em hospedagem PHP.
-
-## Principais áreas do site
-
-- ANM e processos minerários
-- Serviços e projetos de mina
-- Licenciamento ambiental
-- Topografia e georreferenciamento
-- Apresentação institucional
-- Clientes e processo de trabalho
-- Contato e atendimento
+- estrutura institucional responsiva;
+- organização de serviços técnicos em cards e seções;
+- formulário com validação e redirecionamento para WhatsApp;
+- páginas de privacidade e termos;
+- SEO básico com `robots.txt` e `sitemap.xml`;
+- configuração Apache via `.htaccess`;
+- organização de parâmetros comerciais em `config.php`.
 
 ## Tecnologias
 
-- PHP
-- HTML5
-- CSS3
-- JavaScript
-- Apache / `.htaccess`
-- Hospedagem Hostinger
+`PHP` · `HTML5` · `CSS3` · `JavaScript` · `Apache` · `Hostinger`
 
-## Segurança
+## Privacidade do case
 
-Credenciais, senhas, arquivos de configuração privados e dados sensíveis não devem ser versionados neste repositório.
+A versão pública do portfólio mantém a lógica e a estrutura do projeto, mas substitui telefone, e-mail, endereço e mídias de produção por valores de demonstração e placeholders SVG. Isso evita publicar dados operacionais ou arquivos de terceiros desnecessários para avaliar o código.
 
-## Status
+## Execução local
 
-Estrutura do projeto criada. O código-fonte original será adicionado após revisão das configurações sensíveis utilizadas na hospedagem.
+Com PHP instalado:
+
+```bash
+php -S localhost:8000
+```
+
+Depois abra `http://localhost:8000`.

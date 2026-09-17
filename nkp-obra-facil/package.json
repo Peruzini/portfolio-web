@@ -1,0 +1,13 @@
+{
+  "name": "nkp-obra-facil-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional da NKP Obra Fácil LTDA",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

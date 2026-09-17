@@ -5,19 +5,35 @@ Repositório de projetos web desenvolvidos para necessidades reais de negócio. 
 ## Projetos
 
 ### [Cassuli Consultoria](./cassuli-consultoria/)
+
 Website institucional para consultoria especializada em mineração, meio ambiente e geotecnologia.
+
+![Preview visual da Cassuli Consultoria](./docs/previews/cassuli-preview.svg)
 
 **Stack:** PHP · HTML5 · CSS3 · JavaScript · Apache · Hostinger
 
+**Destaques:** site institucional responsivo, apresentação de serviços técnicos, integração com atendimento, páginas legais, SEO básico e estrutura para hospedagem PHP.
+
+➡️ [Ver código e documentação do projeto](./cassuli-consultoria/)
+
+---
+
 ### [NKP Obra Fácil](./nkp-obra-facil/)
+
 Website institucional para empresa de engenharia, construção, estruturas metálicas, facilities e suporte operacional.
 
+![Preview visual da NKP Obra Fácil](./docs/previews/nkp-preview.svg)
+
 **Stack:** HTML5 · CSS3 · JavaScript · Node.js · Hostinger
+
+**Destaques:** landing page corporativa responsiva, apresentação de áreas de atuação, navegação dinâmica, integração com canais de contato e estrutura Node.js para execução local.
+
+➡️ [Ver código e documentação do projeto](./nkp-obra-facil/)
 
 ## Competências demonstradas
 
 - desenvolvimento de sites e landing pages;
-- PHP e JavaScript;
+- PHP, JavaScript e Node.js;
 - HTML semântico e CSS responsivo;
 - formulários e integração com WhatsApp;
 - organização de código e documentação;
